@@ -1,9 +1,3 @@
-echo # proba >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/velhovo/proba.git
-git push -u origin master
 
 $request = new FacebookRequest(
   $session,
